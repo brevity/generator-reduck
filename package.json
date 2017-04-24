@@ -1,0 +1,23 @@
+{
+  "name": "generator-reduck",
+  "version": "1.0.0",
+  "description": "yeoman generator for developing react redux components conforming to the 'duck' bundling proposed standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brevity/generator-reduck.git"
+  },
+  "keywords": [
+    "redux",
+    "duck"
+  ],
+  "author": "brevity",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brevity/generator-reduck/issues"
+  },
+  "homepage": "https://github.com/brevity/generator-reduck#readme"
+}
